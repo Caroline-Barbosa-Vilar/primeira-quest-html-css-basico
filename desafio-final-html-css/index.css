@@ -1,0 +1,23 @@
+.cabecalho-moda {
+  color: azure;
+  background-color: #BB86FC;
+  padding: 8px;
+}
+
+.conteudo-moda {
+  color: azure;
+  background-color: #424250;
+  padding: 8px;
+}
+
+.cabecalho-casa {
+  color: azure;
+  background-color:  #00C4B4;
+  padding: 8px;
+}
+
+.conteudo-casa {
+  color: azure;
+  background-color: #424250;
+  padding: 8px;
+}

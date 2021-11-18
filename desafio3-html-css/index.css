@@ -1,0 +1,15 @@
+div {
+  width: auto;
+}
+
+.primeiro-paragrafo {
+  background-color: #F5F5F5;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.segundo-paragrafo {
+  background-color: #F0CCE2;
+  font-style: italic;
+  padding: 20px;
+}
