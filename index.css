@@ -1,0 +1,10 @@
+.titulo {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.preco {
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+.preco span {
+  font-weight: bold;
+}
